@@ -1,7 +1,5 @@
 # 🚀 Buy or Sell Ribbon Indicator
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 ![Buy or Sell Estimation](Buy%20or%20Sell%20Estimation%201D.png)
 
 Welcome to the **Buy or Sell Ribbon Indicator**, your next-generation trading companion! This innovative tool takes advantage of artificial intelligence and technical analysis, fusing the stability of the Relative Strength Index (RSI) and the precision of the Quantitative Qualitative Estimation (QQE). It empowers traders by providing intelligent trading signals, promoting confident and informed decision-making.
@@ -22,10 +20,6 @@ Welcome to the **Buy or Sell Ribbon Indicator**, your next-generation trading co
 
 Trading inherently involves risk. The Buy or Sell Ribbon Indicator is intended as a supplementary tool to aid your trading decisions. It's crucial to integrate the indicator's signals with thorough market analysis and sound risk management strategies.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 We heartily welcome contributions to the Buy or Sell Ribbon Indicator. If you come across any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request. Together, we can boost this indicator's capabilities and offer an even more beneficial tool to the trading community.
@@ -37,8 +31,12 @@ For better understanding and use of our indicator, we recommend the following re
 - [Understanding the Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp)
 - [Mastering the Quantitative Qualitative Estimation (QQE)](https://www.mql5.com/en/code)
 
-## 💼 Contact
+## 📬 Contact
 
 We're excited to hear from you! For questions, feedback, or suggestions, please reach out to us at [support@smarttradingindicators.com](mailto:support@smarttradingindicators.com).
+
+## 🔒 Note on Code Access
+
+Please note that the code for the Buy or Sell Ribbon Indicator is proprietary and not publicly accessible. For inquiries related to the code or if you need further information, please do not hesitate to contact us at [support@smarttradingindicators.com](mailto:support@smarttradingindicators.com). We appreciate your understanding.
 
 Thank you for considering the Buy or Sell Ribbon Indicator for your trading needs. We wish you prosperous journeys in your trading adventures! 🎉
