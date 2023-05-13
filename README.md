@@ -40,3 +40,5 @@ For better understanding and use of our indicator, we recommend the following re
 We're excited to hear from you! For questions, feedback, or suggestions, please reach out to us at [support@smarttradingindicators.com](mailto:support@smarttradingindicators.com).
 
 Thank you for considering the Buy or Sell Ribbon Indicator for your trading needs. We wish you prosperous journeys in your trading adventures! 🎉
+
+![Buy or Sell Estimation 1D.png](ruta/al/imagen.jpg)
