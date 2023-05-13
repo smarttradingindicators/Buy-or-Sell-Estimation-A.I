@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+![Buy or Sell Estimation](Buy%20or%20Sell%20Estimation%201D.png)
+
 Welcome to the **Buy or Sell Ribbon Indicator**, your next-generation trading companion! This innovative tool takes advantage of artificial intelligence and technical analysis, fusing the stability of the Relative Strength Index (RSI) and the precision of the Quantitative Qualitative Estimation (QQE). It empowers traders by providing intelligent trading signals, promoting confident and informed decision-making.
 
 ## 🎯 Key Features
@@ -40,5 +42,3 @@ For better understanding and use of our indicator, we recommend the following re
 We're excited to hear from you! For questions, feedback, or suggestions, please reach out to us at [support@smarttradingindicators.com](mailto:support@smarttradingindicators.com).
 
 Thank you for considering the Buy or Sell Ribbon Indicator for your trading needs. We wish you prosperous journeys in your trading adventures! 🎉
-
-![Buy or Sell Estimation](Buy%20or%20Sell%20Estimation%201D.png)
