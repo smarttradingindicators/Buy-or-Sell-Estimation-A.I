@@ -41,4 +41,4 @@ We're excited to hear from you! For questions, feedback, or suggestions, please 
 
 Thank you for considering the Buy or Sell Ribbon Indicator for your trading needs. We wish you prosperous journeys in your trading adventures! 🎉
 
-![Buy or Sell Estimation 1D.png](ruta/al/imagen.jpg)
+![Buy or Sell Estimation 1D.png](images/ejemplo.jpg)
