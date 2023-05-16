@@ -1,4 +1,4 @@
-# 🚀 Buy or Sell Ribbon Indicator A.I
+# 🚀 Buy or Sell Ribbon Indicator AI
 
 ![Buy or Sell Estimation](Buy%20or%20Sell%20Estimation%201D.png)
 
