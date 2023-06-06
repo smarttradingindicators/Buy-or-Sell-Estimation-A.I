@@ -47,4 +47,3 @@ Follow us on our social media platforms for the latest updates and insights:
 Please note that the code for the Buy or Sell Ribbon Indicator is proprietary and not publicly accessible. For inquiries related to the code or if you need further information, please do not hesitate to contact us at [support@smarttradingindicators.com](mailto:support@smarttradingindicators.com). We appreciate your understanding.
 
 Thank you for considering the Buy or Sell Ribbon Indicator for your trading needs. We wish you prosperous journeys in your trading adventures! 🎉
-
